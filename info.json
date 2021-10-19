@@ -1,0 +1,22 @@
+﻿{
+    "info": [
+        {
+            "name": "porfirio",
+            "correo": "porfirio.buendia@gmodelo.com.mx",
+            "code": "12334534",
+            "url": "https://cloud.mail.modelo.com.mx/test?CodeQr=12334534"
+        },
+        {
+            "name": "gaby",
+            "correo": "gaby.padilla@gmodelo.com.mx",
+            "code": "12346",
+            "url": "https://cloud.mail.modelo.com.mx/test?CodeQr=12346"
+        },
+        {
+            "name": "alfred",
+            "correo": "alfred@gmodelo.com.mx",
+            "code": "12347",
+            "url": "https://cloud.mail.modelo.com.mx/test?CodeQr=12347"
+        }
+    ]
+}
